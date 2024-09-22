@@ -1,0 +1,2 @@
+Prefix plugins/GlobalSeq/example/
+Plugin GlobalSeq inputfile parameters.txt outputfile output.csv
